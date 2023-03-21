@@ -1,5 +1,5 @@
 package com.example.Mct.service;
-
+import com.example.Mct.model.Product;
 import com.example.Mct.exception.ResourceNotFoundException;
 import com.example.Mct.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
