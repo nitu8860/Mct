@@ -1,5 +1,4 @@
 package com.example.Mct.model;
-import com.example.Mct.model.Product;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
